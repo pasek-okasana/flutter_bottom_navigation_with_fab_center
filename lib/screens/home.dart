@@ -14,7 +14,7 @@ class Home extends StatelessWidget {
         onPressed: () {},
         child: const Icon(Icons.add),
         backgroundColor: Colors.black87,
-        foregroundColor: Colors.yellow,
+        foregroundColor: Colors.blue,
         elevation: 0,
       ),
       bottomNavigationBar: const BottomAppBar(
