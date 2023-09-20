@@ -54,7 +54,7 @@ class _HomeState extends State<Home> {
           mainAxisSize: MainAxisSize.min,
           children: [
             Icon(
-              Icons.home,
+              icons,
               color: _currentPageColor(index),
             ),
             Text(
